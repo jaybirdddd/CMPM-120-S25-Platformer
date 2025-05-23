@@ -1,0 +1,44 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "background-tiled.tmx": {
+            "scale": 0.81,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 380.8641975308642,
+                "y": 122.83950617283955
+            }
+        },
+        "background-tiled.tmx#tilemap": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "/Users/gavin.a.jay/Desktop/CMPM 120 /PlatformerGame/assets",
+    "map.height": 10,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 40,
+    "openFiles": [
+    ],
+    "project": "platformer-background.tiled-project",
+    "recentFiles": [
+        "background-tiled.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.margin": 1,
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}

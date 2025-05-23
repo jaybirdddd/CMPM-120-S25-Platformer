@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="30" height="10" tilewidth="18" tileheight="18" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="kenny-tilemap-packed" tilewidth="18" tileheight="18" tilecount="180" columns="20">
+  <image source="../../PlatformerSection/assets/tilemap_packed.png" width="360" height="162"/>
+ </tileset>
+ <tileset firstgid="181" name="food-compressed" tilewidth="18" tileheight="18" tilecount="112" columns="16">
+  <image source="tilemap_packed.png" width="288" height="126"/>
+ </tileset>
+ <layer id="1" name="Ground-n-Platforms" width="30" height="10">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,253,254,255,0,0,0,253,254,255,0,0,0,0,
+0,0,253,254,255,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,253,254,255,0,0,0,0,253,254,255,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,253,254,255,0,0,253,254,255,0,0,
+0,0,0,0,0,0,0,0,0,0,0,253,254,255,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+198,202,199,199,199,199,199,199,199,202,199,199,199,199,203,203,203,203,203,203,203,203,203,203,203,199,202,199,199,199,
+214,215,215,218,215,215,215,218,215,215,215,218,215,215,219,219,219,219,215,219,219,215,219,219,219,215,215,215,218,215
+</data>
+ </layer>
+</map>

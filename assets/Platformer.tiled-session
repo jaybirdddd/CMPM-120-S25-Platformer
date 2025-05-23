@@ -1,0 +1,99 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "platform-game-background.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "/Users/gavin.a.jay/Desktop/CMPM 120 /ParticlePractice/assets/platformer-level-1.tmx": {
+            "scale": 0.6828124999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 431.30434782608705,
+                "y": 224.80549199084675
+            }
+        },
+        "/Users/gavin.a.jay/Desktop/CMPM 120 /ParticlePractice/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "/Users/gavin.a.jay/Desktop/CMPM 120 /PlatformImprovement/assets/platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.68,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 383.0882352941176,
+                "y": -328.67647058823525
+            }
+        },
+        "/Users/gavin.a.jay/Desktop/CMPM 120 /PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "/Users/gavin.a.jay/Desktop/CMPM 120 /PlatformerSection/assets/platformer-level-1.tmx": {
+            "scale": 0.5027083333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 611.6866970576046,
+                "y": 458.51636966431835
+            }
+        },
+        "/Users/gavin.a.jay/Desktop/CMPM 120 /PlatformerSection/assets/platformer-level-1.tmx#kenny-tilemap-packed": {
+            "scaleInDock": 1
+        },
+        "background-tiled.tmx": {
+            "scale": 0.819375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 359.4202898550725,
+                "y": 89.70251716247145
+            }
+        },
+        "background-tiled.tmx#tilemap": {
+            "scaleInDock": 1
+        },
+        "platform-game-background.tmx": {
+            "scale": 1.09,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 280.27522935779814,
+                "y": 126.14678899082568
+            }
+        },
+        "platform-game-background.tmx#food-compressed": {
+            "scaleInDock": 1
+        },
+        "platform-game-background.tmx#kenny-tilemap-packed": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/gavin.a.jay/Desktop/CMPM 120 /PlatformImprovement/assets",
+    "last.imagePath": "/Users/gavin.a.jay/Desktop/CMPM 120 /PlatformerGame/assets",
+    "map.height": 10,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "openFiles": [
+        "platform-game-background.tmx"
+    ],
+    "project": "Platformer.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "platform-game-background.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
